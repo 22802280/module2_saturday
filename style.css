@@ -100,7 +100,7 @@ nav{
     width: 360px;
 }
 
-.card-left h2{
+.card-title{
     color: #fff;
     font-size: 20px;
     font-weight: bold;
@@ -109,7 +109,7 @@ nav{
     margin-bottom: 4px;
 }
 
-.card-left p{
+.card-subtitle{
     font-size: 13px;
     color: #8C8C8C;
     font-weight: bold;
